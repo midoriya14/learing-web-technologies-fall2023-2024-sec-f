@@ -1,1 +1,1 @@
-# learing-web-technologies-fall2023-2024-sec-f
+# Learing-web-technologies-fall2023-2024-sec-f
